@@ -73,7 +73,7 @@ Content-Type: application/json
 {
   "nome": "aaa Updated",
   "data_nascimento": "1990-01-01",
-  "email": "john@example.com"
+  "email": "aaa@example.com"
 }
 
 Exemplo de Resposta:
