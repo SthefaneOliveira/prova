@@ -23,13 +23,13 @@ Exemplo de Resposta:
     "id": "1",
     "nome": "John Doe",
     "data_nascimento": "1990-01-01",
-    "email": "john@example.com"
+    "email": "asd@example.com"
   },
   {
     "id": "2",
     "nome": "Jane Doe",
     "data_nascimento": "1985-05-15",
-    "email": "jane@example.com"
+    "email": "ass@example.com"
   }
 ]
 
@@ -60,7 +60,7 @@ Exemplo de Resposta:
   "id": "67b01b8c-6299-4c44-8417-5280b07e4fk",
   "nome": "New User",
   "data_nascimento": "2000-02-20",
-  "email": "new@example.com"
+  "email": "novo@example.com"
 }
 
 PUT /users/:id
@@ -71,7 +71,7 @@ PUT http://localhost:3000/users/167b01b8c-6299-4c44-8417-5280b07e4fk
 Content-Type: application/json
 
 {
-  "nome": "John Doe Updated",
+  "nome": "aaa Updated",
   "data_nascimento": "1990-01-01",
   "email": "john@example.com"
 }
