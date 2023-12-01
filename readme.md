@@ -6,7 +6,6 @@ Este é um servidor simples que implementa operações CRUD para a entidade `Usu
 
 1. Instale as dependências:
 
-```bash
 npm install
 Execute o servidor:
 node app.js
